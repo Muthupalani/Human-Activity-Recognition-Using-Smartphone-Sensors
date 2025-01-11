@@ -9,13 +9,7 @@ The primary goal is to preprocess the data, perform dimensionality reduction, tr
 ## **Table of Contents**
 - [Project Features](#project-features)
 - [Technologies and Libraries Used](#technologies-and-libraries-used)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Dataset](#dataset)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## **Project Features**
@@ -56,4 +50,4 @@ The primary goal is to preprocess the data, perform dimensionality reduction, tr
 
 ---
 
-## **Project Structure**
+## **Used**
