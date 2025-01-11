@@ -9,7 +9,8 @@ The primary goal is to preprocess the data, perform dimensionality reduction, tr
 ## **Table of Contents**
 - [Project Features](#project-features)
 - [Technologies and Libraries Used](#technologies-and-libraries-used)
-- [Usage](#usage)
+- [Usage](#Usage)
+-  [Dataset](#Dataset)
 ---
 
 ## **Project Features**
@@ -50,4 +51,14 @@ The primary goal is to preprocess the data, perform dimensionality reduction, tr
 
 ---
 
-## **Used**
+## **Usage**
+Clone the Repository
+Install Dependencies
+Run the Gradio App
+Access the App
+
+## **Dataset**
+Source: UCI Machine Learning Repository
+Contains accelerometer and gyroscope data from smartphones.
+Six activities: Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Lying Down.
+
